@@ -16,3 +16,4 @@
 !['React-Query'](https://img.shields.io/badge/-Query-0D1117?style=for-the-badge&logo=react-query)
 
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
