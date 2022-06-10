@@ -16,5 +16,5 @@
 !['React-Query'](https://img.shields.io/badge/-Query-0D1117?style=for-the-badge&logo=react-query)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DIY0R&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
