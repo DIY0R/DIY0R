@@ -16,5 +16,5 @@
 !['React-Query'](https://img.shields.io/badge/-Query-0D1117?style=for-the-badge&logo=react-query)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DIY0R&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DIY0R)](https://github.com/anuraghazra/github-readme-stats)
 
