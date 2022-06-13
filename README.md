@@ -2,8 +2,6 @@
 
 ### Hi, I write in javascript
 
-## Languages and Tools:
-
 !['JavaScript'](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)
 !['TypeScript'](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript)
 !['Node.js'](https://img.shields.io/badge/-Node-0D1117?style=for-the-badge&logo=node.js)
