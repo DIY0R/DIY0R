@@ -1,9 +1,6 @@
-<!-- [![Header](https://github.com/DIY0R/DIY0R/blob/main/assets/header.jpg)](https://github.com/DIY0R) -->
-
-### Hi, I write in JavaScript ![''](https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=javascript)
-
-
-
-
-
-
+<h1>Hi, I write in JavaScript <img align="right"
+alt="GIF"
+src="https://raw.githubusercontent.com/DIY0R/DIY0R/main/assets/giphy.gif"
+width="50"
+height="45"
+/> </h1>
