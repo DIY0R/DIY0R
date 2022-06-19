@@ -1,4 +1,4 @@
-<table>
+<table border="0">
   <tr>
   <th> 
   <span style="color:yellow;font-size:25px;"> <b>Hi, I write in JavaScript</b></span>  </th>
