@@ -5,10 +5,15 @@ on:
     - cron: '0 */3 * * *'
   workflow_dispatch:
 
+  push:
+    branches:
+      - main
+
 jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
+
     steps:
       - uses: Platane/snk@master
         id: snake-gif
