@@ -6,7 +6,6 @@
 
 <img src="https://www.codewars.com/users/Diy0R/badges/small" alt="viwe codewars">
 
- ![my snake](https://raw.githubusercontent.com/DIY0R/DIY0R/output/github-contribution-grid-snake.svg) 
-
+ 
 
 
