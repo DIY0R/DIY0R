@@ -1,2 +1,2 @@
-<p align="center"><i>«I have not failed. I've just found 10,000 ways that won't work.»</i></p>
-<p align="center"><i>- Thomas Edison -</i></p>
+<p align="center"><i>«The best among people are those who are most beneficial to people.»</i></p>
+<p align="center"><i>〈 Al-Mu’jam Al-Awsat, Hadith 5787 〉</i></p>
